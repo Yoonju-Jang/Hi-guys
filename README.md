@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hello, I am Yoonju Jang
 
-<!--
-**Yoonju-Jang/Yoonju-Jang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+### 🛠 My skillset
+___
+![R](https://img.shields.io/badge/-R_Programming-276DC3?style=for-the-badge&logo=R)
+![Python](https://img.shields.io/badge/python-jupyter-yellow?style=for-the-badge&logo=Python)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=ffffff)
 
-Here are some ideas to get you started:
+### :pencil2: Currently Studying
+___
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=ffff00)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :bookmark: Interest - :traffic_light:*Traffic*, :earth_africa:*Geography*
+
+### 🏃‍♀️ My project
+___
+* 1st : [Analysis of the Korean Government's National Petition Site](https://github.com/Yoonju-Jang/JANG_project)
