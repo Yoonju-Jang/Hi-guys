@@ -1,4 +1,4 @@
-## Hello, I am Yoonju Jang
+## Hello, I am Yoonju Jang :monkey_face:
 
   
 ### 🛠 My skillset
@@ -11,7 +11,10 @@ ___
 ___
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=ffff00)
 
-### :bookmark: Interest - :traffic_light:*Traffic*, :earth_africa:*Geography*
+### :bookmark: Interest 
+___
+
+:traffic_light:*Traffic*, :earth_africa:*Geography*
 
 ### 🏃‍♀️ My project
 ___
