@@ -18,4 +18,4 @@ ___
 
 ### 🏃‍♀️ My project
 ___
-* 1st : [Analysis of the Korean Government's National Petition Site](https://github.com/Yoonju-Jang/JANG_project)
+* 1st : [Analysis of the Korean Government's National Petition Site](https://github.com/Yoonju-Jang/Petition-Law.git)
